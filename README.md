@@ -8,4 +8,4 @@ This repository presents four projects to test BI and data analysis skills for t
 Each project defines a set of requirements to be fulfilled. The main objective is to design a decision support system that will be able to meet up the requirements stated for each project.
 
 ## Data Sources
-The data for [project1]() can be obtained from the [sakila database](https://downloads.mysql.com/docs/sakila-db.zip). All other projects have their data as a csv file in their corresponding folder, as well as a link to the kaggle dataset
+The data for [project1](https://github.com/fouotsop/practical-data-analysis-and-bi-projects/tree/main/projects/project1) can be obtained from the [sakila database](https://downloads.mysql.com/docs/sakila-db.zip). All other projects have their data as a csv file in their corresponding folder, as well as a link to the kaggle dataset
